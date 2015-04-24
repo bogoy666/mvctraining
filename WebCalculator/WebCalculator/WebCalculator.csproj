@@ -57,9 +57,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\CalculatorTests.html" />
+    <Content Include="CalculatorTests.html" />
     <Content Include="Content\qunit.css" />
-    <Content Include="Content\Default.html" />
+    <Content Include="Default.html" />
     <Content Include="Scripts\CalculatorLibrary.js" />
     <Content Include="Scripts\qunit.js" />
     <Content Include="Scripts\tests.js" />
